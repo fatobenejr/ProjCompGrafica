@@ -1,4 +1,9 @@
+A travessia do sapo
+  Trata-se de um jogo que o objetivo é levar um sapo até a margem do rio,
+para isso ele precisará atravessar duas pistas movimentadas por carros.
 
+   Requisitos e instalações necessárias
+   
 Para visualizar o VRML é necessário um plug in no 
 navegador ou algum aplicativo, um exemplo é o
 freeWRL
